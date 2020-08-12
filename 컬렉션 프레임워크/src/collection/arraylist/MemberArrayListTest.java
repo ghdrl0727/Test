@@ -25,7 +25,7 @@ public class MemberArrayListTest {
 		
 		memberArrayList.insertMember(memberHong, 0);
 		memberArrayList.showAllMember();
-
+		
 	}
 
 }
